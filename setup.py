@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="Pyon",
+    name="PyObjectNotation",
     version="1.0.0",
     author="DevLimeGames",
     author_email="dev.limegames@gmail.com",
